@@ -89,7 +89,7 @@ void ArrayCleanup(ArrayT *array) {
     array->data = NULL;
 };
 
-
+//TESTING
 int main() {
     ArrayT a;
     float test[3] = {5.045f, 2.56f, 1.005f};
